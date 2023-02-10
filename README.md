@@ -1,4 +1,4 @@
-[![trophy]https://github-profile-trophy.vercel.app/?username=Ben-Coombes&rank=SSS,SS,S,AAA,AA,A,B
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ben-Coombes&rank=SSS,SS,S,AAA,AA,A,B)
 
 <!--
 **Ben-Coombes/Ben-Coombes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
