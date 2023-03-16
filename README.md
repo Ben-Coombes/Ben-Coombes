@@ -16,8 +16,9 @@ I'm a Game Programming Student enrolled at Centennial College aspring to develop
 <img align="left" alt="JS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-
+<br/>
 ---
+
 ### 📊 Stats
 
 ![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ben-Coombes&show_icons=true&theme=dark)
